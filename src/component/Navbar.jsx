@@ -3,10 +3,7 @@ import { Link } from 'react-router-dom'
 
 const Button = () => {
   return ( 
-      <div className="btn-blub">
-         <Link className="btn text-white btn-small pd-2" to="/cvdetails" path=""> CV Details</Link>
-      </div>
-      
+         <Link className="btn btn-lg btn-danger text-white btn-small pd-2" to="/cvdetails" path=""> CV Details</Link>
    );
 }
  

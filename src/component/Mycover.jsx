@@ -6,6 +6,7 @@ import Navbar from './Navbar';
 
 
 
+
 class Cover extends Component {
   state = {  }
   render() { 
@@ -24,14 +25,14 @@ class Cover extends Component {
                 <li className="nav-item">
                   <a className="nav-link btn btn-light ml-2 bg-dark text-white" href="https://www.twitter.com/sweetestshuga">Twitter</a>
                 </li>
-               
+                
               </ul>
           </nav>
-          <main className="header1 pt-5 col-left pl-5">
+          <main className="pt-5 col-left pl-5">
             <h1>Eze Valentine</h1>
             <h3 className="pt-0">Fullstack(JavaScript) Graphist</h3>
             
-            <p className="text-bold pt-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis a iusto voluptatem iste reprehenderit minus, fugiat est, nemo saepe quisquam rem recusandae doloremque iure ea numquam cupiditate cum corporis, nostrum neque inventore rerum aut minima beatae voluptates? Blanditiis, neque voluptates? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eveniet, omnis!</p>
+            <p className="text-bold pt-4 pull-left d-flex align-left">I am a 70% self taught Innovative tech mind with 2 years of experience learning and working as a computer programmer. I am very much capable of variety of technology and software solutions, and managing databases. A valuable team member who has experience diagnosing problems and developing solutions. A manageable level networking systems and working with mainframe computers. Talented leader/follower with unique ideas and a history of successful contributions in the field.</p>
            <Navbar />
           </main>
         

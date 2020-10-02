@@ -7,16 +7,15 @@
   background-position: center;
 
 }
-.btn-blub {
-  background-color: rgb(255, 58, 133);
-  color:white;
-  padding-right: 2px;
-  text-align: center;
-}
 
-.header1 {
-  padding-right: 45rem;
-  justify-content: left;
+.detail-page {
+  background-color: #eae6e6;
+  background-attachment: fixed;
+  height: 670px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
 }
 
 .App-logo {
